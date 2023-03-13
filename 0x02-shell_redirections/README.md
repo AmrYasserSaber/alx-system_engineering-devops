@@ -1,1 +1,1 @@
-0-hello_world : contain a command that print out "hello, world"
+FILE REDIRECTIONS
