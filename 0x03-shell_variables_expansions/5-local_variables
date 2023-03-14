@@ -1,0 +1,2 @@
+#!/bin/bash
+(set -o posix; set) | awk -F= '$0~/^[[:alpha:]]/ {print "Local Variables:",$1} END {print "Environment Variables:"; for (i in ENVIRON) print i; print "Functions:"; for (i in FUNCTAB) print i}'
