@@ -1,0 +1,9 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+f
+60x04-loops_conditions_and_parsing/0-RSA_public_key.pub,7\e\7eb505602d447232efa9ccf9686e83eabeb4a5db
+b
+20x04-loops_conditions_and_parsing/0-RSA_public_key,2\7\27b22163dc02bd08ee7cf5da8b99c3bf835f7526
+c
+30x04-loops_conditions_and_parsing/1-for_best_school,7\6\76314b51be4b74312a951a6dffbce723a3f45b95
