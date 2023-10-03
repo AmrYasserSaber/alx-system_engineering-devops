@@ -7,3 +7,5 @@ b
 20x04-loops_conditions_and_parsing/0-RSA_public_key,2\7\27b22163dc02bd08ee7cf5da8b99c3bf835f7526
 c
 30x04-loops_conditions_and_parsing/1-for_best_school,7\6\76314b51be4b74312a951a6dffbce723a3f45b95
+`
+00x05-processes_and_signals/1-list_your_processes,3\d\3d49c88ac902a5ec75a2b6405d1c2e8dbfa602b5
